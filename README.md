@@ -5,5 +5,5 @@
 
 Projeto de Análise Exploratória de Dados elaborado com Pandas, Matplotlib e Seaborn
 Dados coletados do Kaggle em https://www.kaggle.com/mchirico/montcoalert
-Inspirado em projeto apresentado em Python para Data Science e Machine Learning na plataforma Udemy https://www.udemy.com/course/python-para-data-science-e-machine-learning/
+Inspirado em projeto apresentado no curso "Python para Data Science e Machine Learning" na plataforma Udemy https://www.udemy.com/course/python-para-data-science-e-machine-learning/
 
